@@ -38,3 +38,8 @@ dt strong {
     font-style: italic;
     color: gray;
 }
+
+.label{
+    font-variant: small-caps;
+    font-style: normal;
+}
