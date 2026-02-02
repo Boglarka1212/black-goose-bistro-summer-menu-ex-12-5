@@ -29,3 +29,7 @@ dt strong {
 #info{
     color: cadetblue;
 }
+
+#info p{
+    font-style: italic;
+}
