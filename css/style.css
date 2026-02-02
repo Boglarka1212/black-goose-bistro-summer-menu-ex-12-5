@@ -33,3 +33,8 @@ dt strong {
 #info p{
     font-style: italic;
 }
+
+.price{
+    font-style: italic;
+    color: gray;
+}
